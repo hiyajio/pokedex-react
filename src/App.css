@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.topBtn {
+    margin-top: 1rem;
+}
+
+.grid-container {
+    width: 70%;
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 10px;
+}
+
+.botBtn {
+    margin-bottom: 1rem;
+}
