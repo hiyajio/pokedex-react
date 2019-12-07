@@ -1,4 +1,4 @@
-# Pokedex - React
+# Pokedex :red_circle: :white_circle: React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
